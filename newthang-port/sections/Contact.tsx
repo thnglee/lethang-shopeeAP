@@ -22,7 +22,7 @@ export function Contact() {
                             <span className="font-serif italic text-gold-accent">exceptional</span>.
                         </motion.h2>
                         <p className="text-xl text-text-body max-w-lg">
-                            I'm open to full-time positions. Willing to relocate for the right opportunities.
+                            I'm open to full-time positions. Willing to overtime.
                             As long as I can deep dive into any thriving business model, I'll give it my fullest.
                         </p>
                     </div>

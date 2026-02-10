@@ -4,6 +4,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const companies = [
+    'PATI Group',
     'Tai Chinh Xanh JSC.',
     'NextStart Incubator',
     'ThinkMay CO.,LTD',

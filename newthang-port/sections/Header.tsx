@@ -24,7 +24,7 @@ export function Header() {
 
                     {/* Logo */}
                     <Link href="/" className="text-xl font-bold tracking-tight text-white">
-                        newthang
+                        lethang
                         <span className="text-gold-accent">.</span>
                     </Link>
 
