@@ -29,7 +29,7 @@ export function Hero() {
                         Thắng Lê
                     </h1>
                     <p className="text-xl md:text-2xl text-gray-400 font-light tracking-wide mb-8">
-                        Driving revenue growth via <span className="text-white font-normal">Paid Ads</span> & <span className="text-white font-normal">Data-Driven Campaign Optimization</span>
+                        Working in <span className="text-white font-normal">Paid Ads</span> & <span className="text-white font-normal">Campaign Optimization</span>
                     </p>
                 </motion.div>
 

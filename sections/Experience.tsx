@@ -11,7 +11,7 @@ const experiences: ExperienceType[] = [
         company: 'MISEN CO.LTD',
         period: '01/2026 – 03/2026',
         location: 'Hanoi',
-        description: 'Managed Google Ads Search campaigns with a $1,500/day budget across multiple high-ticket product categories, maintaining target ROAS through continuous bid strategy and keyword optimisation. Developed keyword strategies — match types, negative keyword lists, search term mining — to improve traffic quality and reduce wasted spend. Set up and maintained conversion tracking via Google Tag Manager to ensure accurate attribution and data-driven budget allocation.',
+        description: 'Managed Google Ads Search campaigns with a $1,500/day budget across multiple product categories, maintaining target ROAS through bid strategy and keyword optimisation. Developed keyword strategies — match types, negative keyword lists, search term mining — to improve traffic quality and reduce wasted spend. Set up conversion tracking via Google Tag Manager to ensure accurate attribution and inform budget allocation.',
         skills: ['Google Ads', 'Search Campaigns', 'Keyword Strategy', 'Conversion Tracking'],
         links: [
             { text: 'Example 1', url: 'https://www.lyonmax.com/products/shordicut-3' },
@@ -28,7 +28,7 @@ const experiences: ExperienceType[] = [
         company: 'Freelance E-commerce',
         period: '12/2025 – 01/2026',
         location: 'Remote',
-        description: 'Ran A/B tests on landing page layouts and offer structures to find the highest-converting combinations and cut drop-off. Integrated upsell and post-purchase apps (Kaching Bundles, AI Upsell Cart) alongside Klaviyo email flows to recover abandoned carts and lift AOV. Set up Meta Pixel with custom events for accurate conversion tracking across Shopify storefronts in the supplements niche.',
+        description: 'Ran A/B tests on landing page layouts and offer structures to find better-converting combinations and reduce drop-off. Integrated upsell and post-purchase apps (Kaching Bundles, AI Upsell Cart) alongside Klaviyo email flows to recover abandoned carts and improve AOV. Set up Meta Pixel with custom events for conversion tracking across Shopify storefronts in the supplements niche.',
         skills: ['A/B Testing', 'Meta Pixel', 'Conversion Tracking'],
         links: [
             { text: 'Project', url: 'https://sculptique-html.vercel.app/' },
@@ -61,7 +61,7 @@ const experiences: ExperienceType[] = [
         company: 'NextStart Incubator — NextTech',
         period: '06/2025 – 10/2025',
         location: 'Hanoi',
-        description: 'Conducted market research and competitive analysis for D2C product concepts, validating demand and identifying target audience segments. Developed go-to-market strategies and pitched growth plans to mentors and industry experts. Collaborated across product, marketing, and tech teams to align campaigns with customer acquisition goals — building a founder\'s mindset around moving fast, testing ideas, and iterating based on data.',
+        description: 'Conducted market research and competitive analysis for D2C product concepts, validating demand and identifying target audience segments. Developed go-to-market strategies and pitched growth plans to mentors and industry experts. Collaborated across product, marketing, and tech teams to align campaigns with customer acquisition goals.',
         skills: ['Market Research', 'Go-to-Market Strategy', 'D2C'],
         links: [
             { text: 'Article', url: 'https://trading.vietcap.com.vn/ai-news/post-detail/nextstart-incubator-vuon-uom-tai-nang-khoi-nghiep-chao-don-khoa-dau-tien' },
@@ -78,7 +78,7 @@ const experiences: ExperienceType[] = [
         company: 'Thinkmay CO.,LTD',
         period: '06/2025 – 09/2025',
         location: 'Hanoi',
-        description: 'Worked directly with the CEO to align ad creatives and content with broader growth and market positioning objectives. Managed end-to-end content production cycles — from concept to final asset — with a focus on driving engagement and conversion. Conducted landing page analysis and A/B testing to identify UX friction points and optimize conversion rates.',
+        description: 'Worked with the CEO to align ad creatives and content with growth and positioning goals. Managed content production from concept to final asset, with a focus on engagement and conversion. Conducted landing page analysis and A/B testing to identify UX friction points and improve conversion rates.',
         skills: ['Ad Creative Production', 'A/B Testing', 'Content Strategy'],
         links: [
             { text: 'Website', url: 'https://thinkmay.net/' },

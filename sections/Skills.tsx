@@ -9,19 +9,19 @@ const skills = [
     {
         id: '01',
         title: 'Facebook Ads & Paid Performance',
-        description: 'Hands-on experience with Meta Ads Manager: campaign setup, audience targeting, budget management, and optimization toward ROAS, CPA, and conversion KPIs. Comfortable running A/B tests to find winning creatives and scaling what works.',
+        description: 'Experience with Meta Ads Manager: campaign setup, audience targeting, budget management, and optimization toward ROAS, CPA, and conversion goals. Run A/B tests on creatives and adjust based on what the data shows.',
         href: '/#paid-ads'
     },
     {
         id: '02',
         title: 'Dropshipping & E-commerce Operations',
-        description: 'Direct experience operating Shopify stores in dropshipping and POD models — from product research and supplier coordination to storefront optimization and AOV improvement through strategic app integrations.',
+        description: 'Experience operating Shopify stores in dropshipping and POD models — from product research and supplier coordination to storefront setup and AOV improvement through app integrations.',
         href: '/#ecommerce'
     },
     {
         id: '03',
         title: 'Data Analysis & Performance Reporting',
-        description: 'Building performance dashboards that combine ad spend, sales, and margin data to surface actionable insights. Analytical mindset applied to interpreting ROAS, CAC, LTV, and CTR trends to guide budget allocation decisions.',
+        description: 'Building performance reports that combine ad spend, sales, and margin data to inform decisions. Track ROAS, CAC, LTV, and CTR trends to understand what\'s working and where to adjust.',
         href: '/#analytics'
     }
 ];
