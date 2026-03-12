@@ -10,11 +10,17 @@ const experiences: ExperienceType[] = [
         role: 'Performance Marketing Specialist',
         company: 'MISEN CO.LTD',
         period: '01/2026 – 03/2026',
-        location: 'Remote',
+        location: 'Hanoi',
         description: 'Managed Google Ads Search campaigns with a $1,500/day budget across multiple high-ticket product categories, maintaining target ROAS through continuous bid strategy and keyword optimisation. Developed keyword strategies — match types, negative keyword lists, search term mining — to improve traffic quality and reduce wasted spend. Set up and maintained conversion tracking via Google Tag Manager to ensure accurate attribution and data-driven budget allocation.',
         skills: ['Google Ads', 'Search Campaigns', 'Keyword Strategy', 'Conversion Tracking', 'ROAS', 'High-ticket D2C'],
-        links: [],
-        media: []
+        links: [
+            { text: 'Example 1', url: 'https://www.lyonmax.com/products/shordicut-3' },
+            { text: 'Example 2', url: 'https://www.lyonmax.com/products/beanigrix-3' }
+        ],
+        media: [
+            { type: 'image', src: '/misen/misen1.png' },
+            { type: 'image', src: '/misen/misen2.png' }
+        ]
     },
     {
         id: '02',
@@ -22,7 +28,7 @@ const experiences: ExperienceType[] = [
         company: 'Freelance E-commerce',
         period: '12/2025 – 01/2026',
         location: 'Remote',
-        description: 'Ran A/B tests on landing page layouts and offer structures to identify highest-converting combinations and reduce drop-off. Integrated upsell and post-purchase apps (OCU, ReConvert) alongside Klaviyo email flows to recover abandoned carts and lift AOV. Set up Meta Pixel with custom events for accurate conversion tracking across Shopify storefronts in the supplements niche.',
+        description: 'Ran A/B tests on landing page layouts and offer structures to find the highest-converting combinations and cut drop-off. Integrated upsell and post-purchase apps (Klaviyo, Kaching Bundles, AI UpsellCart) to recover abandoned carts and lift AOV. Set up Meta Pixel with custom events for accurate conversion tracking across Shopify storefronts in the supplements niche.',
         skills: ['A/B Testing', 'CRO', 'Klaviyo', 'Abandoned Cart Recovery', 'AOV', 'Shopify'],
         links: [
             { text: 'Project', url: 'https://sculptique-html.vercel.app/' },
@@ -38,7 +44,7 @@ const experiences: ExperienceType[] = [
         company: 'Tai Chinh Xanh JSC.',
         period: '09/2025 – 02/2026',
         location: 'Ha Noi',
-        description: 'Orchestrated e-commerce team workflows for the "Softie" brand, coordinating between marketing, operations, and finance to sustain growth momentum. Built integrated performance dashboards combining sales data and financial metrics (revenue, margin, CAC) to support data-driven marketing decisions. Analyzed campaign and sales reports to identify cost-reduction and revenue-growth opportunities, directly influencing budget allocation.',
+        description: 'Managed day-to-day e-commerce operations for the "Softie" brand, keeping marketing, operations, and finance teams aligned on priorities. Supported Facebook Ads campaigns for Softie — helped set up ad sets, monitored delivery and spend, and flagged underperforming creatives for the team to act on. Analyzed campaign and sales reports to find cost-reduction and revenue-growth opportunities, feeding findings directly into budget decisions.',
         skills: ['E-commerce Operations', 'Performance Reporting', 'Data-driven Decision Making', 'CAC Analysis'],
         links: [
             { text: 'Website', url: 'https://www.taichinhxanh.info/' },
