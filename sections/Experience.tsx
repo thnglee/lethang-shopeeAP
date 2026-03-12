@@ -12,7 +12,7 @@ const experiences: ExperienceType[] = [
         period: '01/2026 – 03/2026',
         location: 'Hanoi',
         description: 'Managed Google Ads Search campaigns with a $1,500/day budget across multiple high-ticket product categories, maintaining target ROAS through continuous bid strategy and keyword optimisation. Developed keyword strategies — match types, negative keyword lists, search term mining — to improve traffic quality and reduce wasted spend. Set up and maintained conversion tracking via Google Tag Manager to ensure accurate attribution and data-driven budget allocation.',
-        skills: ['Google Ads', 'Search Campaigns', 'Keyword Strategy', 'Conversion Tracking', 'ROAS', 'High-ticket D2C'],
+        skills: ['Google Ads', 'Search Campaigns', 'Keyword Strategy', 'Conversion Tracking'],
         links: [
             { text: 'Example 1', url: 'https://www.lyonmax.com/products/shordicut-3' },
             { text: 'Example 2', url: 'https://www.lyonmax.com/products/beanigrix-3' }
@@ -28,8 +28,8 @@ const experiences: ExperienceType[] = [
         company: 'Freelance E-commerce',
         period: '12/2025 – 01/2026',
         location: 'Remote',
-        description: 'Ran A/B tests on landing page layouts and offer structures to find the highest-converting combinations and cut drop-off. Integrated upsell and post-purchase apps (Klaviyo, Kaching Bundles, AI UpsellCart) to recover abandoned carts and lift AOV. Set up Meta Pixel with custom events for accurate conversion tracking across Shopify storefronts in the supplements niche.',
-        skills: ['A/B Testing', 'CRO', 'Klaviyo', 'Abandoned Cart Recovery', 'AOV', 'Shopify'],
+        description: 'Ran A/B tests on landing page layouts and offer structures to find the highest-converting combinations and cut drop-off. Integrated upsell and post-purchase apps (Kaching Bundles, AI Upsell Cart) alongside Klaviyo email flows to recover abandoned carts and lift AOV. Set up Meta Pixel with custom events for accurate conversion tracking across Shopify storefronts in the supplements niche.',
+        skills: ['A/B Testing', 'Meta Pixel', 'Conversion Tracking'],
         links: [
             { text: 'Project', url: 'https://sculptique-html.vercel.app/' },
             { text: 'GitHub', url: 'https://github.com/thnglee/Sculptique-Shopify' }
@@ -42,10 +42,10 @@ const experiences: ExperienceType[] = [
         id: '03',
         role: 'E-commerce Operations & Growth',
         company: 'Tai Chinh Xanh JSC.',
-        period: '09/2025 – 02/2026',
+        period: '09/2025 – 12/2025',
         location: 'Ha Noi',
-        description: 'Managed day-to-day e-commerce operations for the "Softie" brand, keeping marketing, operations, and finance teams aligned on priorities. Supported Facebook Ads campaigns for Softie — helped set up ad sets, monitored delivery and spend, and flagged underperforming creatives for the team to act on. Analyzed campaign and sales reports to find cost-reduction and revenue-growth opportunities, feeding findings directly into budget decisions.',
-        skills: ['E-commerce Operations', 'Performance Reporting', 'Data-driven Decision Making', 'CAC Analysis'],
+        description: 'Managed day-to-day e-commerce operations for the "Softie" brand, keeping marketing, operations, and finance teams aligned on priorities. Ran Facebook Ads campaigns for the "Softie" brand in coordination with the creative team — managing 2–5M VND/day in ad spend, briefing ad concepts, monitoring delivery and spend, and iterating on underperforming creatives to improve ROAS. Analyzed campaign and sales reports to find cost-reduction and revenue-growth opportunities, feeding findings directly into budget decisions.',
+        skills: ['E-commerce Operations', 'Facebook Ads', 'Campaign Optimization'],
         links: [
             { text: 'Website', url: 'https://www.taichinhxanh.info/' },
             { text: 'Article', url: 'https://tienphong.vn/nhung-ong-chu-sinh-vien-khoi-nghiep-xanh-post1802928.tpo?fbclid=IwZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPNDM3NjI2MzE2OTczNzg4AAEeGkoYZZsUdFcfhb7no7_bJsMJtXoL5ZxRInEbC4s2ldDWgwgD3kJzRwZS1XQ_aem_ZkNh2DnUVBg-S98zMQdueQ' }
@@ -62,7 +62,7 @@ const experiences: ExperienceType[] = [
         period: '06/2025 – 10/2025',
         location: 'Hanoi',
         description: 'Conducted market research and competitive analysis for D2C product concepts, validating demand and identifying target audience segments. Developed go-to-market strategies and pitched growth plans to mentors and industry experts. Collaborated across product, marketing, and tech teams to align campaigns with customer acquisition goals — building a founder\'s mindset around moving fast, testing ideas, and iterating based on data.',
-        skills: ['Market Research', 'Audience Segmentation', 'Go-to-Market Strategy', 'D2C'],
+        skills: ['Market Research', 'Go-to-Market Strategy', 'D2C'],
         links: [
             { text: 'Article', url: 'https://trading.vietcap.com.vn/ai-news/post-detail/nextstart-incubator-vuon-uom-tai-nang-khoi-nghiep-chao-don-khoa-dau-tien' },
             { text: 'Project', url: 'nextcapy.studio' }
@@ -79,7 +79,7 @@ const experiences: ExperienceType[] = [
         period: '06/2025 – 09/2025',
         location: 'Hanoi',
         description: 'Worked directly with the CEO to align ad creatives and content with broader growth and market positioning objectives. Managed end-to-end content production cycles — from concept to final asset — with a focus on driving engagement and conversion. Conducted landing page analysis and A/B testing to identify UX friction points and optimize conversion rates.',
-        skills: ['Ad Creative Production', 'A/B Testing', 'Conversion Rate Optimization', 'Content Strategy'],
+        skills: ['Ad Creative Production', 'A/B Testing', 'Content Strategy'],
         links: [
             { text: 'Website', url: 'https://thinkmay.net/' },
             { text: 'Tiktok', url: 'https://www.tiktok.com/@thangoncloud' },
