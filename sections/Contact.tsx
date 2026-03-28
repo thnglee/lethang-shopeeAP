@@ -34,7 +34,7 @@ export function Contact() {
                         viewport={{ once: true }}
                     >
                         <a
-                            href="mailto:hello@newthang.dev"
+                            href="mailto:lethang1281@gmail.com"
                             className="group relative inline-flex items-center justify-center px-8 py-4 bg-gold-accent text-black font-semibold uppercase tracking-widest text-sm overflow-hidden rounded-sm transition-transform active:scale-95"
                         >
                             <span className="relative z-10 flex items-center gap-2">
@@ -49,7 +49,7 @@ export function Contact() {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8 pt-12 border-t border-white/10">
                     <div className="flex flex-col gap-4">
                         <h3 className="text-sm font-mono uppercase tracking-widest text-white/50">Contact</h3>
-                        <a href="mailto:hello@newthang.dev" className="text-2xl hover:text-gold-accent transition-colors">
+                        <a href="mailto:lethang1281@gmail.com" className="text-2xl hover:text-gold-accent transition-colors">
                             lethang1281@gmail.com
                         </a>
                         <p className="text-text-body">0981779204</p>

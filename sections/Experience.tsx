@@ -14,7 +14,9 @@ const experiences: ExperienceType[] = [
         description: 'Research and evaluate product opportunities across categories by analyzing market trends, competitor positioning, and customer demand to inform category expansion decisions. Drive seller-side growth by identifying high-potential product lines, coordinating go-to-market launches, and aligning cross-functional teams on revenue targets. Build and maintain data dashboards to monitor category performance, translating insights into actionable growth strategies.',
         skills: ['Product Research', 'Category Growth', 'Go-to-Market', 'Data Analytics', 'Cross-functional Coordination'],
         links: [],
-        media: []
+        media: [
+            { type: 'image', src: '/ecomup/ecomup.jpg' }
+        ]
     },
     {
         id: '02',
