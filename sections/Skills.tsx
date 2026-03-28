@@ -2,26 +2,24 @@
 
 import React from 'react';
 import { motion } from 'framer-motion';
-import { ArrowUpRight } from 'lucide-react';
-import Link from 'next/link';
 
 const skills = [
     {
         id: '01',
-        title: 'Facebook Ads & Paid Performance',
-        description: 'Experience with Meta Ads Manager: campaign setup, audience targeting, budget management, and optimization toward ROAS, CPA, and conversion goals. Run A/B tests on creatives and adjust based on what the data shows.',
-        href: '/#paid-ads'
+        title: 'Business Development & Growth Strategy',
+        description: 'Experience in market research, competitive analysis, and go-to-market planning. Identify growth opportunities, validate product-market fit, and coordinate cross-functional teams to drive category expansion and revenue targets.',
+        href: '/#business-development'
     },
     {
         id: '02',
-        title: 'Dropshipping & E-commerce Operations',
-        description: 'Experience operating Shopify stores in dropshipping and POD models — from product research and supplier coordination to storefront setup and AOV improvement through app integrations.',
+        title: 'E-commerce Operations',
+        description: 'End-to-end experience running e-commerce businesses — from product sourcing and storefront management to fulfillment coordination and margin optimization. Understand how operational decisions impact customer experience and profitability.',
         href: '/#ecommerce'
     },
     {
         id: '03',
-        title: 'Data Analysis & Performance Reporting',
-        description: 'Building performance reports that combine ad spend, sales, and margin data to inform decisions. Track ROAS, CAC, LTV, and CTR trends to understand what\'s working and where to adjust.',
+        title: 'Data Analysis & Business Reporting',
+        description: 'Build dashboards and reports combining revenue, cost, and operational data to support strategic decisions. Track category performance, identify trends, and translate data into actionable growth recommendations.',
         href: '/#analytics'
     }
 ];

@@ -4,11 +4,10 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const companies = [
-    'PATI Group',
+    'ECOMUP',
     'Tai Chinh Xanh JSC.',
     'NextStart Incubator',
-    'ThinkMay CO.,LTD',
-    'Xpath  '
+    'ThinkMay CO.,LTD'
     // duplicates for seamless loop if needed, but we'll use a track
 ];
 
