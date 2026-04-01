@@ -3,3 +3,4 @@ node_modules/
 cv/*.aux
 cv/*.log
 cv/*.out
+.vercel
